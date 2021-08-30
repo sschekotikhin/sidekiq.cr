@@ -14,14 +14,11 @@ dependencies:
     version: ~> 2.6
   kemal:
     github: kemalcr/kemal
-    version: "~> 1.0.0"
+    branch: master
   kemal-session:
     github: kemalcr/kemal-session
-    version: "~> 1.0.0"
   kemal-csrf:
     github: kemalcr/kemal-csrf
-    # version: ~> 0.8.0
-    commit: abaee30f1e8e28d896ed6bf5267a530b5d6ca638
   baked_file_system:
     github: schovi/baked_file_system
     # version: ~> 0.9.8
