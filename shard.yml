@@ -14,7 +14,7 @@ dependencies:
     version: ~> 2.6
   kemal:
     github: kemalcr/kemal
-    version: "~> 1.0.0"
+    commit: 218be2422172d330feb62c6a8abc7df5402fdb84
   kemal-session:
     github: kemalcr/kemal-session
   kemal-csrf:
